@@ -1,0 +1,24 @@
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\TasiErrorLabelTool.dll
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\TasiErrorLabelTool.pdb
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\TasiErrorLabelTool.dll.manifest
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\TasiErrorLabelTool.vsto
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.csprojAssemblyReference.cache
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.Properties.Resources.resources
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.csproj.GenerateResource.cache
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.csproj.CopyComplete
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.dll
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.pdb
+C:\ASE2020\ZHOUZHIYONG\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.Ribbon1.resources
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\TasiErrorLabelTool.dll
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\TasiErrorLabelTool.pdb
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\TasiErrorLabelTool.dll.manifest
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\TasiErrorLabelTool.vsto
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.csprojAssemblyReference.cache
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.Properties.Resources.resources
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.Ribbon1.resources
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.csproj.GenerateResource.cache
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.csproj.CopyComplete
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.dll
+C:\ASE2020\ZHOUZHIYONG\dataset - Copy\TasiErrorLabelTool\TasiErrorLabelTool\obj\Debug\TasiErrorLabelTool.pdb
