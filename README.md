@@ -29,7 +29,7 @@ The details are shown in `README.md`.
 
 Folder `Related Paper` includes the related paper to the dataset.
 
-Yakun Zhang, Xiao Lv, Haoyu Dong, Wensheng Dou, Shi Han, Dongmei Zhang, Jun Wei, and Dan Ye. 2021. **Semantic Table Structure Identification in Spreadsheets**. In Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’21), July 11–17, 2021, Virtual, Denmark. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3460319.3464812
+Yakun Zhang, Xiao Lv, Haoyu Dong, Wensheng Dou, Shi Han, Dongmei Zhang, Jun Wei, and Dan Ye. 2021. **Semantic Table Structure Identification in Spreadsheets**. In Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’21), July 11–17, 2021, Virtual, Denmark. ACM, New York, NY, USA, 13 pages. 
 
 If you use this dataset, please cite this paper.
 
